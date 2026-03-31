@@ -4,6 +4,7 @@ Collection of custom skills for Claude Code, created by @kseungyong.
 
 ## Skills
 
+- **auto-review** - Multi-AI design validation with OpenAI + Gemini cross-review
 - **explain-code** - Code explanation with visual diagrams and analogies
 - **notebooklm-save** - Auto-save design documents to NotebookLM
 - **plan-to-doc** - Auto-save implementation plans to docs/
